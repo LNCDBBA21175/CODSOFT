@@ -27,6 +27,13 @@ The dataset contains information about passengers aboard the Titanic, including:
 - Age Distribution of Passengers
 - Correlation Heatmap
 
+## 📊 Sample Visualizations
+![Survival Count Plot]("C:\Users\HP\OneDrive\Pictures\Screenshots\Screenshot 2025-08-11 020025.png")
+![Survival By Count]("C:\Users\HP\OneDrive\Pictures\Screenshots\Screenshot 2025-08-11 020135.png")
+![Survival by Passenger Class]("C:\Users\HP\OneDrive\Pictures\Screenshots\Screenshot 2025-08-11 020314.png")
+![Age Distribution of Passengers]("C:\Users\HP\OneDrive\Pictures\Screenshots\Screenshot 2025-08-11 020433.png")
+![Age Distribution of Passengers]("C:\Users\HP\OneDrive\Pictures\Screenshots\Screenshot 2025-08-11 020433.png")
+
 ## 🚀 How to Run the Project
 1. Clone the repository:
    ```bash
