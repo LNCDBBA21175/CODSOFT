@@ -37,4 +37,5 @@ The dataset contains information about passengers aboard the Titanic, including:
 ## 🚀 How to Run the Project
 1. Clone the repository:
    ```bash
-   git clone https://github.com/LNCDBBA21175/CODSOFT.git
+   git clone https://github.com/LNCDBBA21175/CODSOFT
+
